@@ -1,0 +1,5 @@
+[
+  "No versions of Node were provided or found in a .travis.yml or circle.yml file",
+  "Must provide <command>",
+  "Error: must provide \" -- <command>\""
+]

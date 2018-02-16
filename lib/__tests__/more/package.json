@@ -1,0 +1,8 @@
+{
+  "name": "more",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "node -v"
+  },
+  "license": "ISC"
+}
