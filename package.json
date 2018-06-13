@@ -1,6 +1,6 @@
 {
   "name": "nvx",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Run commands on multiple node versions as specified from .travis.yml, circle.yml or arguments; uses npx and is ideal for testing.",
   "author": {
     "name": "Buster Collings",
