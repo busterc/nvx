@@ -5,7 +5,7 @@
 ## Prerequisites
 
 - Only requires `npx` so, >= `npm@5.2.0`
-- Includes `nvx` and `nvx-test` CLI commands (also `nxtx` alias for `nvx-test`)
+- Includes `nvx` and `nvx-test` CLI commands (also `nvxt` alias for `nvx-test`)
 
 ## Installation
 
