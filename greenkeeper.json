@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "lib/__tests__/more/package.json",
+        "package.json"
+      ]
+    }
+  }
+}
