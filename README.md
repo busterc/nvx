@@ -1,5 +1,7 @@
 # nvx [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/busterc/nvx.svg)](https://greenkeeper.io/)
+
 > Run commands on multiple node versions as specified from .travis.yml, circle.yml or arguments; uses npx and is ideal for testing.
 
 ## Prerequisites
