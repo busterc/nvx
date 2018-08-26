@@ -4,8 +4,8 @@
 
 ## Prerequisites
 
-* Only requires `npx` so, >= `npm@5.2.0`
-* Includes both `nvx` and `nvx-test` CLI commands
+- Only requires `npx` so, >= `npm@5.2.0`
+- Includes `nvx` and `nvx-test` CLI commands (also `nxtx` alias for `nvx-test`)
 
 ## Installation
 
@@ -34,8 +34,9 @@ Examples
   $ nvx 0.12 8 -- node ./oicu812.js
 
 
-  ## shorthand command for npm test ##
-  ##           nvx-test             ##
+  ## shorthand commands for npm test ##
+  ##           nvx-test              ##
+  ##           nvxt                  ##
 
 
   # Run "npm test" using versions found
