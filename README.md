@@ -1,4 +1,4 @@
-# nvx [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# nvx [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url] [![Greenkeeper badge][greenkeeper-image]][greenkeeper-url]
 
 > Run commands on multiple node versions as specified from .travis.yml, circle.yml or arguments; uses npx and is ideal for testing.
 
@@ -59,3 +59,5 @@ ISC © [Buster Collings](https://about.me/buster)
 [daviddm-url]: https://david-dm.org/busterc/nvx
 [coveralls-image]: https://coveralls.io/repos/busterc/nvx/badge.svg
 [coveralls-url]: https://coveralls.io/r/busterc/nvx
+[greenkeeper-image]: https://badges.greenkeeper.io/busterc/nvx.svg
+[greenkeeper-url]: https://greenkeeper.io/
