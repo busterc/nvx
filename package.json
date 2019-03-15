@@ -23,7 +23,7 @@
   "dependencies": {
     "execa": "^1.0.0",
     "meow": "^5.0.0",
-    "p-map-series": "^1.0.0",
+    "p-map-series": "^2.0.0",
     "travis-or-circle": "^1.0.2"
   },
   "devDependencies": {
