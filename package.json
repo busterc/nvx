@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "assert-dotenv": "^3.0.0",
-    "coveralls": "^3.0.2",
+    "coveralls": "^3.0.4",
     "eslint": "^5.4.0",
     "eslint-config-prettier": "^3.0.1",
     "eslint-config-xo": "^0.24.2",
