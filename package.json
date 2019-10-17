@@ -21,7 +21,7 @@
     "test": "jest --coverage"
   },
   "dependencies": {
-    "execa": "^1.0.0",
+    "execa": "^3.2.0",
     "meow": "^5.0.0",
     "p-map-series": "^1.0.0",
     "travis-or-circle": "^1.0.2"
