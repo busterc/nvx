@@ -4,7 +4,7 @@
   "license": "ISC",
   "author": "Buster Collings <busterc@gmail.com> (https://about.me/buster)",
   "repository": "busterc/nvx",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "lib/index.js",
   "bin": {
     "nvx": "lib/cli.js",
