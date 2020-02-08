@@ -1,6 +1,6 @@
 # nvx [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url] [![Greenkeeper badge][greenkeeper-image]][greenkeeper-url]
 
-> Run commands on multiple node versions as specified from .travis.yml, circle.yml or arguments; uses npx and is ideal for testing.
+> Run commands on any specified Node version, or as defined in .travis.yml or circle.yml
 
 ## Prerequisites
 
@@ -31,7 +31,7 @@ Examples
   $ nvx 0.12 8 -- npm test
 
   # Not limited to just npm test
-  $ nvx 0.12 8 -- node ./oicu812.js
+  $ nvx 8.1.2 -- node ./oicu812.js
 
 
   ## shorthand commands for npm test ##
